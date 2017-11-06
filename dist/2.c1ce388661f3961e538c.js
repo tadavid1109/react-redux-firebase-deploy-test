@@ -1,0 +1,2 @@
+webpackJsonp([2],{1202:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0}),n.default=function(e){return{path:":projectname",getComponent:function(e,n){t.e(7).then(function(e){var u=t(1211).default;n(null,u)}.bind(null,t)).catch(t.oe)}}}}});
+//# sourceMappingURL=2.c1ce388661f3961e538c.js.map
